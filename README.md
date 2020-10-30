@@ -1,9 +1,7 @@
-# 📅 ion2-calendar
+# 📅 ion5-calendar
 
-[![Build Status](https://travis-ci.org/HsuanXyz/ion2-calendar.svg?branch=master)](https://travis-ci.org/HsuanXyz/ion2-calendar)
-[![Dependency Status](https://david-dm.org/HsuanXyz/ion2-calendar.svg)](https://david-dm.org/HsuanXyz/ion2-calendar)
-[![NPM version][npm-image]][npm-url]
-[![Downloads][downloads-image]][downloads-url]
+This is a fork from original work by [HsuanXyz/ion2-calendar](https://github.com/HsuanXyz/ion2-calendar) with support for Ionic 5 and above.
+
 [![MIT License][license-image]][license-url]
 
 ![date](https://github.com/HsuanXyz/hsuanxyz.github.io/blob/master/assets/ion2-calendar/calendar.png?raw=true)
@@ -25,8 +23,7 @@
 
 # Support
 
-- ionic-angular `^3.0.0` [2.x](https://github.com/HsuanXyz/ion2-calendar/tree/v2)
-- @ionic/angular `4.0.0`
+- @ionic/angular `^4.0.0`
 
 # Demo
 
@@ -36,7 +33,7 @@ live demo [click me](https://www-yefjsqmtmv.now.sh/).
 
 ### Installation
 
-`$ npm install ion2-calendar@next moment --save`
+`$ npm install @lucario/ion5-calendar moment --save`
 
 ### Import module
 
@@ -482,7 +479,7 @@ openCalendar() {
 
 ## Thanks for reading
 
-[npm-url]: https://www.npmjs.com/package/ion2-calendar
+[npm-url]: https://www.npmjs.com/package/@lucario/ion5-calendar
 [npm-image]: https://img.shields.io/npm/v/ion2-calendar.svg
 [downloads-image]: https://img.shields.io/npm/dm/ion2-calendar.svg
 [downloads-url]: http://badge.fury.io/js/ion2-calendar

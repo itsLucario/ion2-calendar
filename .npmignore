@@ -18,6 +18,7 @@ README-v1.md
 gulpfile.js
 package-lock.json
 .github/
+ionic-demo/
 demo/
 demo-lazyload/
 src/

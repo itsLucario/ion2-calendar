@@ -1,6 +1,6 @@
 {
-  "name": "ion2-calendar",
-  "version": "3.4.1",
+  "name": "@lucario/ion5-calendar",
+  "version": "3.4.5",
   "description": "A date picker component for ionic2 ",
   "main": "./dist/index.js",
   "typings": "./dist/index.d.ts",
@@ -19,7 +19,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/HsuanXyz/ion2-calendar.git"
+    "url": "https://github.com/itsLucario/ion2-calendar"
   },
   "devDependencies": {
     "@angular/common": "7.1.4",
